@@ -14,7 +14,7 @@ This is a fork of the original work by **[lu7cgj](https://github.com/lu7cgj/CHIR
 ## Instructions
 
 1. **Download:** Grab this entire repository and extract it to a folder on your computer.
-2. **Install Python:** Ensure you have Python installed. *Tip: Make sure to check the box to **Add Python to PATH** during the installation setup.*
+2. **Install Python:** Ensure you have [Python](https://www.python.org) installed. *Tip: Make sure to check the box to **Add Python to PATH** during the installation setup.*
 3. **Prepare Your Channels:** Create and export a new CSV file using [CHIRP](https://chirp.danplanet.com/). Keep your channel names to **10 characters or less** for best compatibility.
 4. **Setup Files:** Place your exported CHIRP CSV file in the same folder next to the conversion script (`ChirpCSV_to_YSF.py`).
 5. **Convert:** Simply **drag and drop** your CHIRP CSV file directly onto the `ChirpCSV_to_YSF.py` script.
